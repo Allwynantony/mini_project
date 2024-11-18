@@ -9,6 +9,9 @@ SerenadeBot is an intelligent music companion that transforms the way you discov
 SerenadeBot leverages natural language processing to understand the emotional context of your conversations. Through seamless integration with the Last.fm API, it curates music recommendations that resonate with your current emotional state. The system employs:
 
 1.Advanced sentiment analysis using NLTK (Natural Language Toolkit)
+
 2.Real-time emotion detection through sophisticated NLP algorithms
+
 3.Dynamic music matching based on emotional patterns
+
 4.Conversational interface for natural interaction
