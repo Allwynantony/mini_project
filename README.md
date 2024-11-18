@@ -16,5 +16,4 @@ SerenadeBot leverages natural language processing to understand the emotional co
 
 4.Conversational interface for natural interaction
 
-**To Run the program download the repository locally and run Python file app.py
-**
+**To Run the program download the repository locally and run Python file app.py**
