@@ -15,3 +15,6 @@ SerenadeBot leverages natural language processing to understand the emotional co
 3.Dynamic music matching based on emotional patterns
 
 4.Conversational interface for natural interaction
+
+**To Run the program download the repository locally and run Python file app.py
+**
